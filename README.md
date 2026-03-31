@@ -1,62 +1,53 @@
 # 🎨 ArtGallery
 
-**ArtGallery** es una plataforma digital simple que permite explorar y gestionar colecciones de arte de manera eficiente. Los artistas pueden añadir, editar y eliminar sus propias obras, mientras que los usuarios pueden dejar opiniones sobre las piezas. La plataforma está diseñada para ser accesible y fácil de usar.
+**ArtGallery** is a simple digital platform that allows you to explore and manage art collections efficiently. Artists can add, edit, and delete their own artworks, while users can leave reviews on the pieces. The platform is designed to be accessible and easy to use.
 
-> ⚠️ Asegúrate de tener correctamente configurado tu entorno de desarrollo para evitar errores durante la ejecución.
-
----
-
-## 👥 Equipo
-
-- **Víctor Hugo**
-- **Rubén Ruiz**
-- **Ariel**
-- **Rodrigo**
+> ⚠️ Make sure your development environment is correctly configured to avoid errors during execution.
 
 ---
 
-## 📑 Tabla de Contenidos
+## 📑 Table of Contents
 
-- [Características](#-características)
-- [Funcionamiento](#-funcionamiento)
-- [Roles del Sistema](#-roles-del-sistema)
-- [Tecnologías Usadas](#-tecnologías-usadas)
-- [Instalación y Configuración](#-instalación-y-configuración)
-
----
-
-## 🏆 Características
-
-- **Añadir Obras**: Los artistas pueden añadir nuevas obras a su perfil.
-- **Editar y Eliminar Obras**: Los artistas pueden editar o eliminar sus obras en cualquier momento.
-- **Comentarios y Opiniones**: Los usuarios pueden dejar opiniones sobre las obras, lo que fomenta la interacción.
-- **Visualización de Obras**: Los usuarios pueden explorar las obras con detalles como el nombre del artista, título de la obra y descripción.
+- [Features](#-features)
+- [How it Works](#-how-it-works)
+- [System Roles](#-system-roles)
+- [Technologies Used](#-technologies-used)
+- [Installation and Configuration](#-installation-and-configuration)
 
 ---
 
-## 🕹️ Funcionamiento
+## 🏆 Features
 
-1. Los usuarios acceden a la plataforma y pueden explorar la galería de arte.
-2. Los artistas pueden añadir, editar o eliminar sus propias obras.
-3. Los usuarios pueden dejar comentarios y opiniones sobre las obras, interactuando con el contenido.
-4. Las obras se muestran con su nombre, autor y una breve descripción.
-5. No hay filtros avanzados ni otras interacciones complejas, la interfaz es simple y directa.
-
----
-
-## 🛠️ Roles del Sistema
-
-- **Usuario General**: Explora la galería y deja comentarios sobre las obras.
-- **Artista**: Añade, edita o elimina sus propias obras y gestiona su perfil.
-- **Administrador**: (Opcional) Gestiona la plataforma, aunque no se ha implementado en esta versión.
+- **Add Artworks**: Artists can add new artworks to their profile.
+- **Edit and Delete Artworks**: Artists can edit or delete their artworks at any time.
+- **Comments and Reviews**: Users can leave reviews on the artworks, encouraging interaction.
+- **Artwork Display**: Users can explore the artworks with details such as the artist's name, artwork title, and description.
 
 ---
 
-## 💻 Tecnologías Usadas
+## 🕹️ How it Works
 
-- **Lenguaje Backend**: `Node.js`
+1. Users access the platform and can explore the art gallery.
+2. Artists can add, edit, or delete their own artworks.
+3. Users can leave comments and reviews on the artworks, interacting with the content.
+4. Artworks are displayed with their title, author, and a brief description.
+5. There are no advanced filters or other complex interactions; the interface is simple and straightforward.
+
+---
+
+## 🛠️ System Roles
+
+- **General User**: Explores the gallery and leaves comments on the artworks.
+- **Artist**: Adds, edits, or deletes their own artworks and manages their profile.
+- **Administrator**: (Optional) Manages the platform, although this has not been implemented in this version.
+
+---
+
+## 💻 Technologies Used
+
+- **Backend Language**: `Node.js`
 - **Frontend**: `CSS3`, `HTML5`
-- **Persistencia**: Archivos locales (JSON) para almacenamiento de las obras de arte y los comentarios.
+- **Persistence**: Local files (JSON) for storing artworks and comments.
 
 ---
 
